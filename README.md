@@ -28,3 +28,9 @@ pyfiglet (for CLI banner)
 Clone Repository:
 bash 
 git clone https://github.com/mrafaysheikh/python-port-scanner.git
+
+After cloning
+cd python-port-scanner
+pip install --break-system-packages python-nmap colorama pyfiglet
+
+This command will help you to download packages in external environment
