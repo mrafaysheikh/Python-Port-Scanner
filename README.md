@@ -23,4 +23,8 @@ Technologies Used:
 Python
 Nmap
 colorama (for colored output)
-pyfiglet (for CLI banner
+pyfiglet (for CLI banner)
+
+Clone Repository:
+bash 
+git clone https://github.com/mrafaysheikh/python-port-scanner.git
